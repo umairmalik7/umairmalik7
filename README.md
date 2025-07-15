@@ -1,10 +1,10 @@
 
 
 
-<h2 align="center">⚡ Umair Malik's GitHub Stats ⚡</h2>
+<h2 align="center">⚡ current statistics ⚡</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairmalik7&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairmalik7&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">

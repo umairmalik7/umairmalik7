@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=umairmalik7)](https://git.io/streak-stats)
+
 
 
 <h2 align="center">⚡ Umair Malik's GitHub Stats ⚡</h2>
